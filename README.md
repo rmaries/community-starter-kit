@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Learning to create welcome bot using github training
 
 ## What it does
 
-FEATURES PLACEHOLDER
+ - Need to create the bot
+ - Make a check
+ - test it
 
 ## Getting started
 
